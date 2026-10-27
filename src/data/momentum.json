@@ -1,14 +1,14 @@
 {
-  "checked": "2026-10-18",
+  "checked": "2026-10-27",
   "github": {
-    "stars": 45089,
-    "pullRequests": 7950,
-    "contributors": 583,
-    "commitsYear": 4034,
+    "stars": 45789,
+    "pullRequests": 8554,
+    "contributors": 599,
+    "commitsYear": 4254,
     "weeks": [
-      48, 41, 51, 95, 31, 9, 22, 35, 18, 35, 107, 17, 14, 37, 51, 23, 195, 83,
-      30, 44, 27, 51, 21, 18, 38, 77, 125, 196, 261, 437, 142, 42, 30, 15, 35,
-      57, 9, 78, 230, 121, 70, 178, 42, 142, 74, 66, 75, 66, 76, 72, 166, 11
+      41, 51, 95, 31, 9, 22, 35, 18, 35, 107, 17, 14, 37, 51, 23, 195, 83, 30,
+      44, 27, 51, 21, 18, 38, 77, 125, 196, 263, 437, 142, 42, 30, 15, 35, 57,
+      9, 78, 230, 121, 70, 178, 46, 142, 75, 66, 75, 66, 82, 102, 172, 162, 68
     ]
   },
   "foundation": {
@@ -87,15 +87,15 @@
     ]
   },
   "downloads": {
-    "total": 1287588,
+    "total": 1321158,
     "countries": 215,
     "post": "/news/2026/09/quattro-crosses-200000-iso-downloads/",
-    "quattro": 472946,
-    "periods": [{ "label": "Last month", "count": 135113, "days": 30 }],
+    "quattro": 506516,
+    "periods": [{ "label": "Last month", "count": 118430, "days": 30 }],
     "counting": {
       "since": "2026-09-06",
-      "through": "2026-10-17",
-      "lastAdded": 3221,
+      "through": "2026-10-26",
+      "lastAdded": 3128,
       "countries": [
         "AD",
         "AE",
